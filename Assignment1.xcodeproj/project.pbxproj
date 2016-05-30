@@ -14,7 +14,7 @@
 		F448E47F1CFBA8460070D608 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F448E47D1CFBA8460070D608 /* LaunchScreen.storyboard */; };
 		F448E48A1CFBA8460070D608 /* Assignment1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F448E4891CFBA8460070D608 /* Assignment1Tests.swift */; };
 		F448E4951CFBA8460070D608 /* Assignment1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F448E4941CFBA8460070D608 /* Assignment1UITests.swift */; };
-		F448E4A71CFBEA2D0070D608 /* Assignment1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F448E4A61CFBEA2D0070D608 /* Assignment1.swift */; };
+		F448E4A91CFBF0F40070D608 /* Assignment1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F448E4A81CFBF0F40070D608 /* Assignment1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		F448E4901CFBA8460070D608 /* Assignment1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F448E4941CFBA8460070D608 /* Assignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment1UITests.swift; sourceTree = "<group>"; };
 		F448E4961CFBA8460070D608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F448E4A61CFBEA2D0070D608 /* Assignment1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Assignment1.swift; sourceTree = "<group>"; };
+		F448E4A81CFBF0F40070D608 /* Assignment1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Assignment1.swift; path = ../../Assignment1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +99,13 @@
 		F448E4731CFBA8460070D608 /* Assignment1 */ = {
 			isa = PBXGroup;
 			children = (
+				F448E4A81CFBF0F40070D608 /* Assignment1.swift */,
 				F448E4741CFBA8460070D608 /* AppDelegate.swift */,
 				F448E4761CFBA8460070D608 /* ViewController.swift */,
 				F448E4781CFBA8460070D608 /* Main.storyboard */,
 				F448E47B1CFBA8460070D608 /* Assets.xcassets */,
 				F448E47D1CFBA8460070D608 /* LaunchScreen.storyboard */,
 				F448E4801CFBA8460070D608 /* Info.plist */,
-				F448E4A61CFBEA2D0070D608 /* Assignment1.swift */,
 			);
 			path = Assignment1;
 			sourceTree = "<group>";
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F448E4A71CFBEA2D0070D608 /* Assignment1.swift in Sources */,
+				F448E4A91CFBF0F40070D608 /* Assignment1.swift in Sources */,
 				F448E4771CFBA8460070D608 /* ViewController.swift in Sources */,
 				F448E4751CFBA8460070D608 /* AppDelegate.swift in Sources */,
 			);
