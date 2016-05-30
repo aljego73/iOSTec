@@ -6,8 +6,6 @@
 //  Copyright © 2016 Alejandro Jesus. All rights reserved.
 //
 
-// HOLA1
-
 import UIKit
 
 class ViewController: UIViewController {
