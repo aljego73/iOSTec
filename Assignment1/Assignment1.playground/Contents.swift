@@ -2,7 +2,7 @@
 //: Ejercicio d final de semana 2
 //: Alejandro Jesús González 😅
 
-import Cocoa
+//: import Cocoa
 import UIKit
 
 var cont = 0...100
