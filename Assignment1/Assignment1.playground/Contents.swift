@@ -9,18 +9,18 @@ var cont = 0...100
 for i in cont {
     
     if (i != 0) && (i % 5 == 0) {
-        print("\(i)\tBingo")
+        print("\(i)\tBingo!!!")
     }
     
     if (i % 2 == 0) {
-        print("\(i)\tPar")
+        print("\(i)\tpar!!!")
     }
         
     else {
-        print("\(i)\tImpar")
+        print("\(i)\timpar!!!")
     }
     
     if (i>=30) && (i<=40) {
-        print("\(i)\tviva Swift!!!")
+        print("\(i)\tViva Swift!!!")
     }
 }
