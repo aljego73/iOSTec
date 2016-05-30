@@ -48,6 +48,7 @@
 		F448E4941CFBA8460070D608 /* Assignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment1UITests.swift; sourceTree = "<group>"; };
 		F448E4961CFBA8460070D608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F448E4A21CFBA8CD0070D608 /* Assigment1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Assigment1.playground; path = ../../Assigment1.playground; sourceTree = "<group>"; };
+		F448E4A51CFBBF7D0070D608 /* miniReto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto1.playground; path = ../../miniReto1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 		F448E4731CFBA8460070D608 /* Assignment1 */ = {
 			isa = PBXGroup;
 			children = (
+				F448E4A51CFBBF7D0070D608 /* miniReto1.playground */,
 				F448E4741CFBA8460070D608 /* AppDelegate.swift */,
 				F448E4761CFBA8460070D608 /* ViewController.swift */,
 				F448E4781CFBA8460070D608 /* Main.storyboard */,
